@@ -1,2 +1,0 @@
-# LetsUpgradeRPA
-Assignment
